@@ -3,7 +3,7 @@ A cordova contacts for react-native, supprt for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-contacts --save
+npm install @zss0512/react-native-contacts --save
 ```
 ### Installation (iOS)
 * Drag RCTContacts.xcodeproj to your project on Xcode.
